@@ -1,2 +1,4 @@
 # rayros25.github.io
-My website
+This is my website.
+
+Nothing too fancy for the time being, but I'm sure in the years to come I'll update it and make it more professional.
