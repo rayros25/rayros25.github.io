@@ -19,19 +19,22 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ABSAT
+author: Raymond Rosales
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Are blogs still a thing?
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  rayros25
+linkedin_username: rjrosales2025
 
 # Build settings
+# TODO: Do I need minima installed?
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-seo-tag
 # remote_theme: brianmaierjr/long-haul
 # remote_theme: LeNPaul/Lagrange
 
@@ -57,3 +60,4 @@ plugins:
 
 # Publish articles with a future date (kinda dumb)
 future: true
+# show_excerpts: true
