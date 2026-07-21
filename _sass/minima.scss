@@ -1,20 +1,24 @@
 @charset "utf-8";
 
+@import url(https://fonts.googleapis.com/css?family=Arvo);
+@import url('https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap');
+
 // Define defaults for each variable.
 
-$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+// $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$base-font-family: Arvo, Helvetica, Noto Emoji !default;
 $base-font-size:   16px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
 
+// Thank you, coolers.co
 $spacing-unit:     30px !default;
+$text-color:       #554348 !default;
+$background-color: #d4f5f5 !default;
+$brand-color:      #93b7be !default;
 
-$text-color:       #111 !default;
-$background-color: #eee5d7 !default;
-$brand-color:      #2a7ae2 !default;
-
-$grey-color:       #828282 !default;
+$grey-color:       #8c9a9e !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
