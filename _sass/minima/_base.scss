@@ -55,7 +55,8 @@ main {
  * Images
  */
 img {
-  max-width: 100%;
+  // max-width: 100%;
+  max-width: 69%;
   vertical-align: middle;
 }
 
@@ -104,7 +105,9 @@ h1, h2, h3, h4, h5, h6 {
  */
 a {
   color: $brand-color;
-  text-decoration: none;
+  // text-decoration: none;
+  text-decoration: underline;
+  // text-decoration: overline; // This one's WEIRD!
 
   &:visited {
     color: darken($brand-color, 15%);
@@ -151,7 +154,9 @@ code {
   @include relative-font-size(0.9375);
   border: 1px solid $grey-color-light;
   border-radius: 3px;
-  background-color: #eef;
+  // background-color: #eef;
+  color: #ddd;
+  background-color: #272822;
 }
 
 code {
