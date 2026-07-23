@@ -37,7 +37,7 @@ c 'orld';
 ```
 
 This language is so old it doesn't even have syntax highlighting supported here.
-Although this is the first recorded instance of the "Hello, world" program, it can allegedly back to BCPL in 1967. Turtles all the way down.
+Although this is the first recorded instance of the "Hello, world" program, it can allegedly be traced back to BCPL in 1967. Turtles all the way down.
 ## Getting Func-y (and Esoteric)
 
 But not all "Hello, worlds" are created equal. Some "Hello, worlds" aren't even "Hello, worlds."[^2]
