@@ -2,7 +2,7 @@
 layout: home
 aliases:
 ---
-> "You want to work spells," Ogion said presently, striding along. "you've drawn too much water from that well. Wait. Manhood is patience. Mastery is nine times patience. What is that herb by the path?"
+> "You want to work spells," Ogion said presently, striding along. "You've drawn too much water from that well. Wait. Manhood is patience. Mastery is nine times patience. What is that herb by the path?"
 >
 > "Strawflower."
 >
