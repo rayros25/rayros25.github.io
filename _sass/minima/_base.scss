@@ -14,7 +14,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+  font: $base-font-weight #{$body-font-size}/#{$base-line-height} $body-font-family;
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
@@ -94,9 +94,22 @@ li {
 /**
  * Headings
  */
-h1, h2, h3, h4, h5, h6 {
+h1 {
   font-weight: $base-font-weight;
+  font-family: $h1-font-family;
 }
+
+h2 {
+  font-weight: $base-font-weight;
+  font-family: $h2-font-family;
+}
+
+h3, h4, h5, h6 {
+  font-weight: $base-font-weight;
+  font-family: $head-font-family;
+}
+
+
 
 
 
@@ -135,9 +148,10 @@ blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
-  @include relative-font-size(1.125);
+  @include relative-font-size(1.25);
   letter-spacing: -1px;
   font-style: italic;
+  font-family: $bq-font-family;
 
   > :last-child {
     margin-bottom: 0;

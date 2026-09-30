@@ -1,16 +1,78 @@
 @charset "utf-8";
 
 @import url(https://fonts.googleapis.com/css?family=Arvo);
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic);
+@import url(https://fonts.googleapis.com/css?family=Scope+One);
 @import url('https://fonts.googleapis.com/css2?family=Noto+Emoji:wght@300..700&display=swap');
+// TODO: why aren't emoji's working?
+
+// Cool header fonts: 
+// Balthazar (kinda medieval)
+// Cal Sans (a bit boring?)
+// Shrikhand (real funky)
+
+
+@import url(https://fonts.googleapis.com/css?family=Balthazar);
+@import url(https://fonts.googleapis.com/css?family=Cal+Sans);
+@import url(https://fonts.googleapis.com/css?family=Shrikhand);
+@import url(https://fonts.googleapis.com/css?family=Sarina);
+@import url(https://fonts.googleapis.com/css?family=Fascinate);
+@import url(https://fonts.googleapis.com/css?family=Sonsie+One);
+
+// Cool body fonts:
+// Buda (TODO: variable font, how to test?)
+// Athiti
+// Fauna One
+// Iosevka Charon
+
+
+// @import url(https://fonts.googleapis.com/css?family=Buda);
+@import url(https://fonts.googleapis.com/css?family=Athiti);
+@import url(https://fonts.googleapis.com/css?family=Fauna+One);
+@import url(https://fonts.googleapis.com/css?family=Zen+Kaku+Gothic+New);
+@import url(https://fonts.googleapis.com/css?family=Iosevka+Charon);
+
+
+
+
+/// MORE FONT STUFF
+/// 
+@import url(https://fonts.googleapis.com/css?family=Iansui);
+@import url(https://fonts.googleapis.com/css?family=Mooli);
+@import url(https://fonts.googleapis.com/css?family=Alien+Block);
+@import url(https://fonts.googleapis.com/css?family=Jacquard+12);
+@import url(https://fonts.googleapis.com/css?family=Cardo);
+// For testing purposes
+@import url(https://fonts.googleapis.com/css?family=Rampart+One);
+@import url(https://fonts.googleapis.com/css?family=Bangers);
 
 // Define defaults for each variable.
 
 // $base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$base-font-family: Arvo, Helvetica, Noto Emoji !default;
-$base-font-size:   16px !default;
+// $base-font-family: Arvo, Didact Gothic, Helvetica, Noto Emoji !default;
+$base-font-family: Iansui, Helvetica, Noto Emoji !default;
+// $base-font-size:   16px !default;
+$base-font-size:   18px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
 $base-line-height: 1.5 !default;
+
+
+// These are my thingies
+// $h1-font-family: Sonsie One;
+// $h2-font-family: Fascinate;
+$h1-font-family: "Jacquard 12"; // Blog titles on blog posts
+$h2-font-family: Arvo; // Subheaders on blog posts, also the bottom title
+$head-font-family: Arvo;
+$bq-font-family: Cardo;
+
+// $body-font-family: Fauna One;
+// $body-font-family: Didact Gothic;
+// $body-font-family: Iansui; // I like this one. Handwriting feel.
+$body-font-family: Mooli; // Wow this one's really good
+// $body-font-family: Scope One; // Might be a better fit with Arvo? A bit thin though
+// $body-font-family: Fauna One; // This one fits REAL well with Arvo
+$body-font-size: 18px !default;
 
 // Thank you, coolers.co
 $spacing-unit:     30px !default;

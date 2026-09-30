@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thoughts on Nolan's "The Odyssey"
+title: Thoughts on Nolan’s “The Odyssey”
 date: 2026-08-11
 tags: movies, review
 ---
@@ -48,7 +48,7 @@ Where is wily Odysseus, cunning Odysseus, the lord of lies, the master of manipu
 
 [^pluck]: Odysseus does this right before shooting the arrow through[^through] twelve axes and going _Doom: Eternal_ on the suitors.
 
-[^through]: I still don't get that. What you mean "through" twelve axes? Every adaptation I've seen does it differently. Sometimes the axes have little rings on the end, sometimes the axes are tied together into pairs with a gap between them (Nolan's choice), sometimes the axes just have holes in them. Wilson suggests the poem really means axe-*heads*, and the holes are where the wooden handle usually is. Gotta say, it didn't look that hard in the Nolan movie. Those were some large gaps between the pairs of axes.
+[^through]: I still don't get that. What do you mean "through" twelve axes? Every adaptation I've seen does it differently. Sometimes the axes have little rings on the end, sometimes the axes are tied together into pairs with a gap between them (Nolan's choice), sometimes the axes just have holes in them. Wilson suggests the poem really means axe-*heads*, and the holes are where the wooden handle usually is. Gotta say, it didn't look that hard in the Nolan movie. Those were some large gaps between the pairs of axes.
 
 The last thing I'll say is that this movie is strangely transparent. Once you read the original text, you can see how it got “movie-fied” by Nolan.[^aura] Emphasize this, cut back on that. Add this thematically relevant backstory, shove in this moral. And that kinda reveals the structure movies tend to have.
 
