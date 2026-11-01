@@ -22,7 +22,7 @@ In hindsight, this is obvious GitHub propaganda. It was training my young, impre
 
 The number unfinished projects I have on Scratch became a strange point of pride for me. They outnumber my published projects a hundred to one (and I'm only half-joking). This habit would continue well throughout my educational career as a programmer.
 
-I had a CS professor who told us the importance of GitHub as a potential software engineer. It's as good as a resume. And you don't leave random garbage on your resume, do you? So that night, I privated all of my miscellaneous repos. My profile is still squeaky clean.
+I had a CS professor who told us the importance of GitHub as a potential software engineer. It's as good as a résumé. And you don't leave random garbage on your résumé, do you? So that night, I privated all of my miscellaneous repos. My profile is still squeaky clean.
 
 But unfinished projects aren't the only thing private. I also keep some creative writing and my coursework in private repos, in accordance with my alma mater's course policy. Other students haven't gotten the memo, so fully workable code solutions to big projects (even ones from Red 40[^red40]) are freely available online.
 
